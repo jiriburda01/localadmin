@@ -39,7 +39,6 @@ if ($CurrentUserAdmin) {
 write-host "user is admin"
 exit 0
 
-#Start Flow
 
 }
 
@@ -49,7 +48,6 @@ else {
 
 
 
-#Start Flow
 
 Write-Host "User is not admin"
 exit 1618
